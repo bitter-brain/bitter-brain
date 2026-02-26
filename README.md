@@ -12,7 +12,7 @@
 ### 🛠 Tech Stack
 
 **Frontend:**  
-HTML • CSS • SCSS • JavaScript • TypeScript  
+HTML • CSS • SCSS • JavaScript • React • TypeScript  
 
 **Frameworks & Libraries:**  
 React • Redux  
