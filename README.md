@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Boris</h1>
+<h3 align="center">Frontend Developer</h3>
 
-<!--
-**bitter-brain/bitter-brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Building modern web applications
+- ⚡ Focused on performance & clean architecture
+- 🎯 Passionate about UI/UX and smooth animations
+- 🌍 Based in Europe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Frontend:**  
+HTML • CSS • SCSS • JavaScript • TypeScript  
+
+**Frameworks & Libraries:**  
+React • Redux  
+
+**Tools & Workflow:**  
+Vite • REST API • Git  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bitter-brain&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitter-brain&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔹 Todo App — React + JavaScript
+- 🔹 StreamVibe — JSX + SCSS + Minista
+
+
+---
+
+### 📫 Contact Me
+
+- Telegram: @bitter_brain  
+- Email: borisalekseev95@mail.com  
+
+---
+
