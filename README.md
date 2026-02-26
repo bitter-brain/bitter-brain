@@ -6,8 +6,6 @@
 ### 🚀 About Me
 - 💻 Building modern web applications
 - ⚡ Focused on performance & clean architecture
-- 🎯 Passionate about UI/UX and smooth animations
-- 🌍 Based in Europe
 
 ---
 
@@ -21,18 +19,6 @@ React • Redux
 
 **Tools & Workflow:**  
 Vite • REST API • Git  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitter-brain&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitter-brain&theme=tokyonight" />
-</p>
 
 ---
 
