@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">Frontend Developer</h3>
-<h4 align="center">https://alekseevboris.ru</h4>
+<h4 align="center" target="_blank">https://alekseevboris.ru</h4>
 
 ---
 
