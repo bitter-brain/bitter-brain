@@ -15,16 +15,10 @@
 **Frontend:**  
 HTML • CSS • SCSS • JavaScript • React • TypeScript  
 
-**Frameworks & Libraries:**  
-React • Redux  
-
-**Tools & Workflow:**  
-Vite • REST API • Git  
-
 ---
 
 ### 📌 Featured Projects
-
+- 🔹 GitHub User Explorer — React + TypeScript
 - 🔹 Todo App — React + JavaScript
 - 🔹 StreamVibe — JSX + SCSS + Minista
 
