@@ -11,8 +11,7 @@
 ---
 
 ### 🛠 Tech Stack
-
-**Frontend:**  
+  
 HTML • CSS • SCSS • JavaScript • React • TypeScript  
 
 ---
