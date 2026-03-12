@@ -12,14 +12,14 @@
 
 ### 🛠 Tech Stack
   
-HTML • CSS • SCSS • JavaScript • React • TypeScript  
+ • HTML • CSS • SCSS • JavaScript • React • TypeScript  
 
 ---
 
 ### 📌 Featured Projects
-- 🔹 GitHub User Explorer — React + TypeScript + RTK Query + FSD
-- 🔹 Todo App — React + JavaScript + FSD
-- 🔹 StreamVibe — JSX + SCSS + Minista
+- GitHub User Explorer — React + TypeScript + RTK Query + FSD
+- Todo App — React + JavaScript + FSD
+- StreamVibe — JSX + SCSS + Minista
 
 
 ---
