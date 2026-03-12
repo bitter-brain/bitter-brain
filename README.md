@@ -17,8 +17,8 @@ HTML • CSS • SCSS • JavaScript • React • TypeScript
 ---
 
 ### 📌 Featured Projects
-- 🔹 GitHub User Explorer — React + TypeScript + RTK Query
-- 🔹 Todo App — React + JavaScript
+- 🔹 GitHub User Explorer — React + TypeScript + RTK Query + FSD
+- 🔹 Todo App — React + JavaScript + FSD
 - 🔹 StreamVibe — JSX + SCSS + Minista
 
 
