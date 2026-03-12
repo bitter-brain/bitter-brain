@@ -26,7 +26,7 @@ HTML • CSS • SCSS • JavaScript • React • TypeScript
 
 ### 📫 Contact Me
 
-- Telegram: @bitter_brain  
+- Telegram: t.me/bitter_brain  
 - Email: borisalekseev95@mail.com  
 
 ---
