@@ -5,29 +5,25 @@
 ---
 
 ### 🚀 About Me
--  Building modern web applications
--  Focused on performance & clean architecture
+Building modern web apps with a focus on performance, clean architecture, and SPA development.
 
 ---
 
 ### 🛠 Tech Stack
-  
- • HTML • CSS • SCSS • JavaScript • React • TypeScript  
+HTML • CSS • SCSS • JavaScript • TypeScript • React • Redux Toolkit • RTK Query • WebSocket • Formik • Yup • Bootstrap • Vite • Docker • Jenkins
 
 ---
 
 ### 📌 Featured Projects
-- GitHub User Explorer — React + TypeScript + RTK Query + FSD
-- Todo App — React + JavaScript + FSD
-- StreamVibe — JSX + SCSS + Minista
-
+| Project | Tech | Links |
+|---------|------|-------|
+| **Hexlet Chat** | React + Redux Toolkit + WebSocket + i18n + Rollbar | [Demo](https://frontend-project-12-vg29.onrender.com) • [Repo](https://github.com/bitter-brain/frontend-project-12) |
+| GitHub User Explorer | React + TypeScript + RTK Query + FSD | [Demo](https://github-user-explorer-seven.vercel.app/) • [Repo](https://github.com/bitter-brain/github-user-explorer) |
+| Todo App | React + JavaScript + FSD | [Demo](https://bitter-brain.github.io/todo/) • [Repo](https://github.com/bitter-brain/todo-app) |
+| StreamVibe | JSX + SCSS + Minista | [Demo](https://my-minista-project.vercel.app/show) • [Repo](https://github.com/bitter-brain/streamvibe) |
 
 ---
 
 ### 📫 Contact Me
-
-- Telegram: t.me/bitter_brain  
-- Email: borisalekseev95@mail.com  
-
----
-
+- Telegram: [@bitter_brain](https://t.me/bitter_brain)  
+- Email: borisalekseev95@mail.com
