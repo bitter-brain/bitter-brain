@@ -20,7 +20,7 @@ HTML • CSS • SCSS • JavaScript • TypeScript • React • Redux Toolkit 
 | **Hexlet Chat** | JS + React + RTK Query + Redux Toolkit| [Demo](https://frontend-project-12-vg29.onrender.com) • [Repo](https://github.com/bitter-brain/frontend-project-12) |
 | GitHub User Explorer | React + TypeScript + RTK Query + FSD | [Demo](https://github-user-explorer-seven.vercel.app/) • [Repo](https://github.com/bitter-brain/github-user-explorer) |
 | Todo App | React + JavaScript + FSD | [Demo](https://bitter-brain.github.io/todo/) • [Repo](https://github.com/bitter-brain/todo) |
-| StreamVibe | JSX + SCSS + Minista | [Demo](https://my-minista-project.vercel.app/show) • [Repo](https://github.com/bitter-brain/streamvibe) |
+| StreamVibe | JSX + SCSS + Minista | [Demo](https://my-minista-project.vercel.app/show) • [Repo](https://github.com/bitter-brain/stream-vibe) |
 
 ---
 
