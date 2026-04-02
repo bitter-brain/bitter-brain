@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-Building modern web apps with a focus on performance, clean architecture, and SPA development.
+Building modern web apps with a focus on performance, clean architecture and SPA development.
 
 ---
 
